@@ -19,4 +19,7 @@ Subsystem:
 
 **3:- Payment Gateway**
 
-## Subsystem
+--------------------------------------------------------------------------------------------
+## Subsystem Description
+
+This subsystem will involve both customer and driver to achieve agreement on price and make payment.
