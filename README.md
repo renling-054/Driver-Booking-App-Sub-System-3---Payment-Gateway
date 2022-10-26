@@ -1,4 +1,15 @@
-# Driver-Booking-App-Sub-System-3---Payment-Gateway
+# Driver Booking App Subsystem 3 - Payment Gateway
 
-# Greetings, my name is Ng Ren Li, a final year student from School of Computer Sciences, USM.
+**About me**
+Greetings, my name is Ng Ren Li, a final year student from School of Computer Sciences, USM.
 
+--------------------------------------------------------------------------------------------
+# Final Year Project
+Title: Driver Booking App
+Supervisor: Dr. Sukumar Letchuman
+Subsystem:
+1:- User Management System
+2:- Driver Management System
+**3:- Payment Gateway**
+
+# Subsystem
