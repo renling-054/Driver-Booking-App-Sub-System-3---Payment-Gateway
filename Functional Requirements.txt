@@ -1,0 +1,38 @@
+User story 1: As a user I want to choose the payment method I prefer.
+Functional requirements:
+1. The system must allow users to choose to pay either with debit/credit card or online banking.
+2. The system must allow users to choose which card to pay.
+3. The system must allow users to choose which bank to continue the transaction.
+
+User story 2: As a user I want to save a new debit/credit card
+Functional requirements:
+1. The system must allow users to add a new debit/credit card.
+2. The system must allow users to cancel the process.
+
+User story 3: As a user I want to remove a debit/credit card
+Functional requirements:
+1. The system must allow users to remove an existing debit/credit card.
+2. The system must allow users to cancel the process.
+
+User story 4: As a user I want to confirm the booking process.
+Functional requirements:
+1. The system must display the list of drivers.
+2. The system must allow users to choose the driver they prefer.
+3. The system must allow users to accept the booking.
+4. The system must allow users to reject the booking.
+
+User story 5: As a user I want to request for OTP/TAC.
+Functional requirements:
+1. The system must direct to the correct payment gateway based on payment method chosen.
+2. The system must allow users to click on request OTP/TAC button.
+3. The system must send users an OTP/TAC.
+4. The system must allow users to click again once the cooldown period is over if users do not receive OTP/TAC.
+
+User story 6: As a user I want to enter the OTP/TAC received.
+Functional requirements:
+1. The system must allow users to enter the OTP/TAC received.
+2. The system must notify whether the transaction is successful or not.
+
+User story 7: As a user I want to receive the driver's details.
+1. The system must send users an email stating driver's details after the transaction has completed.
+2. The system must allow users to resend an email if users do not receive it.
